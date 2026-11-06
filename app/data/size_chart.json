@@ -1,0 +1,18 @@
+{ 
+    "policy": "round-up",
+    "boundary_tolerance_mm":0.3,
+    "sizes": [
+        {"size": "0", "width_mm": 13.8},
+        {"size": "1", "width_mm": 13.1},
+        {"size": "2", "width_mm": 12.2},
+        {"size": "3", "width_mm": 11.6},
+        {"size": "4", "width_mm": 11.1},
+        {"size": "5", "width_mm": 10.4},
+        {"size": "6", "width_mm": 9.8},
+        {"size": "7", "width_mm": 9.2},
+        {"size": "8", "width_mm": 8.6},
+        {"size": "9", "width_mm": 8},
+        {"size": "10", "width_mm": 7.3},
+        {"size": "11", "width_mm": 6.7}
+    ]
+}
