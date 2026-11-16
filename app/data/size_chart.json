@@ -1,5 +1,5 @@
 { 
-    "policy": "round-up",
+    "policy": "round_up",
     "boundary_tolerance_mm":0.3,
     "sizes": [
         {"size": "0", "width_mm": 13.8},
